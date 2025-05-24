@@ -188,6 +188,11 @@ TMLR 2023. [[Paper](https://arxiv.org/abs/2201.08531)][[Github](https://github.c
 
 ## Gradient-free Methods 
 
+**CAPO: Cost-Aware Prompt Optimization** \
+*Tom Zehle, Moritz Schlager, Timo Heiß, Matthias Feurer* \
+arXiv 2025. [[Paper](https://arxiv.org/abs/2504.16005)] [[Github](https://github.com/finitearth/capo)]  \
+22 APr 2025
+
 **PROPANE: Prompt design as an inverse problem** \
 *Rimon Melamed, Lucas H. McCabe, Tanay Wakhare, Yejin Kim, H. Howie Huang, Enric Boix-Adsera* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2311.07064v1)] [[Github](https://github.com/rimon15/propane)] \
