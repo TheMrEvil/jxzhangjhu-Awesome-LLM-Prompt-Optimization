@@ -33,6 +33,8 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ## LLM Optimization
 
+- [FutureAGI agent-opt](https://github.com/future-agi/agent-opt)
+
 **Black-Box Prompt Optimization: Aligning Large Language Models without Model Training** \
 *Jiale Cheng, Xiao Liu, Kehan Zheng, Pei Ke, Hongning Wang, Yuxiao Dong, Jie Tang, Minlie Huang* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2311.04155)] [[Github](https://github.com/thu-coai/bpo)] \
@@ -277,4 +279,4 @@ ICLR 2024 Conference Submission8133 Authors. [[Paper](https://openreview.net/for
 **Bayesian Optimization of Catalysts With In-context Learning** \
 *Mayk Caldas Ramos, Shane S. Michtavy, Marc D. Porosoff, Andrew D. White* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2304.05341)] [[Github](https://github.com/ur-whitelab/bo-lift)] \
-11 Apr 2023 
+11 Apr 2023
