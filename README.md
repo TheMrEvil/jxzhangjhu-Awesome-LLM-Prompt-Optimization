@@ -34,6 +34,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ## LLM Optimization
 
 - [FutureAGI agent-opt](https://github.com/future-agi/agent-opt)
+- [FutureAGI future-agi](https://github.com/future-agi/future-agi) - Open-source self-hostable end-to-end agent engineering and optimization platform unifying tracing, evals, simulations, datasets, gateway, and guardrails for LLM and AI agent applications.
 
 **Black-Box Prompt Optimization: Aligning Large Language Models without Model Training** \
 *Jiale Cheng, Xiao Liu, Kehan Zheng, Pei Ke, Hongning Wang, Yuxiao Dong, Jie Tang, Minlie Huang* \
