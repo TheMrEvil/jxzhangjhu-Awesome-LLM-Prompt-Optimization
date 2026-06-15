@@ -112,6 +112,11 @@ Oct 2024
 ICLR 2024 submission. [[Paper](https://openreview.net/forum?id=eojWsJQ2fe)] \
 Oct 2024 
 
+**Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations (PersonaEvolve)** \
+*Yunzhe Wang, Gale M. Lucas, Burcin Becerik-Gerber, Volkan Ustun* \
+EMNLP 2025. [[Paper](https://arxiv.org/abs/2509.16457)] \
+19 Sep 2025 
+
 
 ## Fine-tuning Methods
 
