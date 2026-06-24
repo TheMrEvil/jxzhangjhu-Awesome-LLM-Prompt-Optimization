@@ -35,6 +35,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 - [FutureAGI agent-opt](https://github.com/future-agi/agent-opt)
 - [FutureAGI future-agi](https://github.com/future-agi/future-agi) - Open-source self-hostable end-to-end agent engineering and optimization platform unifying tracing, evals, simulations, datasets, gateway, and guardrails for LLM and AI agent applications.
+- [Weco — eval-driven optimization with LangSmith/Langfuse](https://weco.ai/blog/weco-langsmith-integration) - Runs autoresearch code/prompt optimization directly against your existing LangSmith and Langfuse datasets and evaluators.
 
 **Black-Box Prompt Optimization: Aligning Large Language Models without Model Training** \
 *Jiale Cheng, Xiao Liu, Kehan Zheng, Pei Ke, Hongning Wang, Yuxiao Dong, Jie Tang, Minlie Huang* \
